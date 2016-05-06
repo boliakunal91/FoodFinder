@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Finder</string>
+    <string name="action_settings">Settings</string>
+    <string name="consumer_key">Ai4UtiLr8gqSnSj4cZJBuQ</string>
+    <string name="consumer_secret">EXWxBF7INjaQv28GXBQruN5w65Q</string>
+    <string name="token">n1lDJ5HLiUL8V6r6ocGQ9Ao6hxklJp30</string>
+    <string name="token_secret">ZrkwCUZMKvyuHGSeFuwr-mUKfF0</string>
+    <string name="search">Search</string>
+    <string name="title_activity_delete">delete</string>
+    <string name="title_activity_reservation">ReservationActivity</string>
+</resources>
